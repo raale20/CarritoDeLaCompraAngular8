@@ -1,4 +1,4 @@
-class GrupoArticulos{
+class ListaArticulos{
 
     private articulo:Articulo[];
 

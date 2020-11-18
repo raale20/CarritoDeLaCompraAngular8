@@ -5,6 +5,7 @@ import { Component, OnInit } from '@angular/core';
   templateUrl: './articulo-component.component.html',
   styleUrls: ['./articulo-component.component.scss']
 })
+
 export class ArticuloComponentComponent implements OnInit {
 
   constructor() { }
